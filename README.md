@@ -1,5 +1,5 @@
 # 记录Android UE4逆向教程合集
-[直达B站链接](https://space.bilibili.com/3546631309888190)
+* [直达B站链接](https://space.bilibili.com/3546631309888190)
 * 随缘更新, 课程笔记可能会放到这里
 
 ## [1.安装与配置](https://www.bilibili.com/video/BV18y411Y7Ma/)
