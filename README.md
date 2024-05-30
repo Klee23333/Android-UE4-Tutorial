@@ -27,6 +27,7 @@
 
 ## [7.安装git并导入外部项目](https://www.bilibili.com/video/BV1jz421a72h)
 * [git](https://git-scm.com/)
+* [KittyMemoryEx](https://github.com/MJx0/KittyMemoryEx)
 
 ## [8.使用ceserver桥接手机并编写代码获取GWorld](https://www.bilibili.com/video/BV1Yn4y1o7kE)
 * [CheatEngine](https://www.cheatengine.org/)
